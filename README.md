@@ -1,1 +1,1 @@
-CC project: Tea Cozy (January 2021)
+CC project: Tea Cozy (Jan 2021)
